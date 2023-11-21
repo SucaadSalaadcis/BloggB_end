@@ -1,0 +1,1 @@
+mogo.set('strictQuery', true);
